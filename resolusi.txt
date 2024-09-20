@@ -1,2 +1,4 @@
 Tanggal 20/09/2024 
 - Belajar GIT & GITHUB 
+- Membuat Akun GITHUB 
+- Menginstall GIT di PC
